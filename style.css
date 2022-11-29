@@ -1,0 +1,49 @@
+nav{
+    color: aliceblue;
+}
+body{
+    background-color: #2E2E2E;
+}
+.profile {
+    width: 1600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 0px;
+    background-color: white;
+  }
+.white{
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left: 250px;
+    border-radius: 100px;
+    padding-top: 20px;
+}
+.name{
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-left: 250px;
+    border-radius: 100px;
+    background-color: gray;
+    padding-top: 20px;
+}
+.pic{
+    margin-left: 1100px;
+    margin-top: -250px;
+}
+.about {
+    width: 1600px;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 0px;
+    margin-left: 310px;
+    background-color: white;
+  }
