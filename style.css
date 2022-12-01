@@ -47,3 +47,29 @@ body{
     margin-left: 310px;
     background-color: white;
   }
+.padding {
+    padding-top: 50px;
+    
+}
+.height{
+    height: 250px;
+    align-items: center;
+    text-align: center;
+    margin-top: 150px;
+}
+.box{
+    margin-left: 250px;
+    height: 100px;
+    width: 500px;
+    padding-top: 30px;
+    background-color: gray;
+    color: #2E2E2E;
+    font-family: cursive;
+    font-size: 25px;
+    border-radius: 100px;
+}
+.img{
+    margin-left: 890px;
+    margin-top: -235px;
+    
+}
